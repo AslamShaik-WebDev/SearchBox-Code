@@ -1,2 +1,2 @@
-# SearchBox
-Search Box Projects using HTML &amp; CSS
+# SearchBox-Code
+Responsive Search Box Projects using HTML &amp; CSS
