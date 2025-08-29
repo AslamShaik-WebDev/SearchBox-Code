@@ -1,2 +1,2 @@
-# SearchBox-HTML-CSS
+# SearchBox
 Search Box Projects using HTML &amp; CSS
